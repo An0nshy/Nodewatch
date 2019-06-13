@@ -1,9 +1,9 @@
 # Node-Monitor
-The Node.js-based network and local node health monitor for ZENZO (ZNZ)
+The Node.js-based network and local node health monitor for DogeCash (DOGEC)
 
 ## Installation
 
-1. `git clone https://github.com/ZENZO-Ecosystem/Node-Monitor`
+1. `git clone https://github.com/dogecash/Node-Monitor`
 2. cd `Node-Monitor`
 3. `npm i express bitcoin-rpc-promise`
 4. `nano index.js` (Edit local variables to suit your node RPC installation)
